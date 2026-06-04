@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+cff-version: 1.2.1
 message: If you use this software, please cite it using the metadata below. Additionally,
   please cite the underlying paleoclimate data sources listed in data_references.bib
   (251 publications across 335 datasets) and the lipdverse compilation.
