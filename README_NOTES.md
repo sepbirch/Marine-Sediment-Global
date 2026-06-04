@@ -1,1 +1,1 @@
-This repository was created as part of a larger project reconstructing several scenarios for late mid-Holocene temperature in the Mediterranean (3.5-5.5ka) as part of the PReSto 2026 workshop. This construction uses global marine sediment proxies for temperature. 
+This repository was created as part of a larger project reconstructing several scenarios for late mid-Holocene temperature in the Mediterranean (2.5-5.5ka) as part of the PReSto 2026 workshop. This construction uses global marine sediment proxies for temperature. 
